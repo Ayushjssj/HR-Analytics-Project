@@ -177,19 +177,19 @@ Built an interactive HR Analytics dashboard containing:
 # Dashboard Screenshots
 
 ## Dashboard Overview
-(Add Screenshot Here)
+![Power BI Dashboard](https://github.com/Ayushjssj/HR-Analytics-Project/blob/main/output/Dashboard%20Overview.png?raw=true)
 
 ## Attrition Distribution
-(Add Screenshot Here)
+![Power BI Dashboard](https://github.com/Ayushjssj/HR-Analytics-Project/blob/main/output/Attrition%20Distribution.png?raw=true)
 
 ## Department Analysis
-(Add Screenshot Here)
+![Power BI Dashboard](https://github.com/Ayushjssj/HR-Analytics-Project/blob/main/output/Department%20Analysis.png?raw=true)
 
 ## Overtime Analysis
-(Add Screenshot Here)
+![Power BI Dashboard](https://github.com/Ayushjssj/HR-Analytics-Project/blob/main/output/Overtime%20Analysis.png?raw=true)
 
 ## Salary Analysis
-(Add Screenshot Here)
+![Power BI Dashboard](https://github.com/Ayushjssj/HR-Analytics-Project/blob/main/output/Salary%20Analysis.png?raw=true)
 
 ---
 
