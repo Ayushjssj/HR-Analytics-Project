@@ -293,7 +293,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Author
+## 👤 Author
 ### Ayush Pandey<br>
 Aspiring Data Analyst & GenAI Enthusiast
 - Python
@@ -311,7 +311,3 @@ This Project is licensed under the MIT License
 ⭐ If you like this project
 
 Give it a ⭐ on GitHub — it helps a lot!
-
-# Tags
-
-#Python #SQL #MySQL #PowerBI #MachineLearning #HRAnalytics #DataAnalytics #BusinessIntelligence #EDA #DataScience
